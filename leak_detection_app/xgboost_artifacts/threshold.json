@@ -1,0 +1,5 @@
+{
+    "threshold": 0.38803765177726746,
+    "threshold_selection": "maximum F1 on validation set",
+    "target": "Leak_No_Leak"
+}
